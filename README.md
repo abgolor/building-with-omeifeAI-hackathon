@@ -1,4 +1,4 @@
-# Eko Translate <img src="./images/eko_translate_logo.png" alt="Eko Translate Logo" width="40">
+# <img src="./images/eko_translate_logo.svg" alt="Eko Translate Logo" width="40"> Eko Translate
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![API Level](https://img.shields.io/badge/API-24%2B-brightgreen.svg)](https://android-arsenal.com/api?level=24)
