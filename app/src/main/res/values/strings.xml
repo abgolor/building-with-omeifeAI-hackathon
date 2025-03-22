@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Eko Translate</string>
+
+    <string name="error_translation">Oops! We couldn’t complete the translation. Please check your connection or try again later.</string>
+
+    <string name="enter_text_to_translate">Enter text to translate…</string>
+    <string name="long_press_to_copy">Long press to copy</string>
+    <string name="message_copied">Message copied</string>
+    <string name="translation_cancelled">Translation cancelled</string>
+    <string name="welcome_message_title">Type in English, get Yoruba</string>
+    <string name="more_button">More</string>
+    <string name="eko_translate_logo">Eko Translate Logo\n</string>
+
+    <string name="app_logo_content_description">App Logo</string>
+    <string name="omeife_logo_content_description">Omeife AI Logo</string>
+    <string name="powered_by">Powered by</string>
+    <string name="omeife_ai">Omeife AI</string>
+</resources>
