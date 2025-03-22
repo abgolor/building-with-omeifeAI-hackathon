@@ -1,4 +1,4 @@
-# Eko Translate <img src=".github/assets/logo.png" alt="Eko Translate Logo" width="40">
+# Eko Translate <img src="./images/logo.png" alt="Eko Translate Logo" width="40">
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![API Level](https://img.shields.io/badge/API-24%2B-brightgreen.svg)](https://android-arsenal.com/api?level=24)
@@ -87,10 +87,10 @@ Key technologies:
 
 <table>
   <tr>
-    <td><img src="assets/splash_screen.png" alt="Splash Screen" width="220"/></td>
-    <td><img src="assets/quick_suggestion.png" alt="Quick Suggestion Screen" width="220"/></td>
-    <td><img src="assets/light_mode_chat_screen.png" alt="Light Mode Chat Screen" width="220"/></td>
-    <td><img src="assets/dark_mode_chat_screen.png" alt="Dark Mode Chat Screen" width="220"/></td>
+    <td><img src="./images/splash_screen.png" alt="Splash Screen" width="220"/></td>
+    <td><img src="./images/quick_suggestion.png" alt="Quick Suggestion Screen" width="220"/></td>
+    <td><img src="./images/light_mode_chat_screen.png" alt="Light Mode Chat Screen" width="220"/></td>
+    <td><img src="./images/dark_mode_chat_screen.png" alt="Dark Mode Chat Screen" width="220"/></td>
   </tr>
   <tr>
     <td align="center"><b>Splash Screen</b></td>
