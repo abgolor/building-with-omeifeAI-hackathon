@@ -4,7 +4,7 @@ We thank all the contributors who have helped make EkoTranslate better!
 
 ## Core Team
 
-- **Abgolor** - *Project Lead & Main Developer* - [GitHub](https://github.com/abgolor)
+- **Golor Abraham AjiriOghene** - *Project Lead & Main Developer* - [GitHub](https://github.com/abgolor)
 
 ## Contributors
 
